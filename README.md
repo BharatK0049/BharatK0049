@@ -15,7 +15,6 @@
 ## 🧠 Current Focus
 - Deep Learning (CNNs, representation learning)
 - Data Structures & Algorithms (speed + clarity)
-- Research-oriented problem solving
 
 ---
 
