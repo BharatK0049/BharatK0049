@@ -3,7 +3,7 @@
 Third-year B.Tech in Artificial Intelligence & Data Science
 Shiv Nadar University
 
-[![](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME) [![](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharatkameswaran/) [![](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharat.kameswaran@gmail.com)
 
 ---
 
@@ -47,4 +47,4 @@ Exploration of event-based vision for high-speed image deblurring, originally de
 
 ---
 
-*Still building. Still learning. Shipping consistently.*
+*Still building. Still learning.*
