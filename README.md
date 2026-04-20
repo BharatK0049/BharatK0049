@@ -26,7 +26,7 @@
 ---
 
 ## 📌 Projects
-- 📄 Extractive Document Summarizer (Maximum Entropy + Beam Search)
+- :image_2026-04-20_202357582: Mapsy: A mind map generator from raw text
 - 🎥 Event-based Image Deblurring (NTIRE challenge exploration)
 - 📝 PaperBrain: An automated Handwritten Answer Script Evaluator
 ---
