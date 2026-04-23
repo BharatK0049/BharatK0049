@@ -18,7 +18,7 @@ I am a third-year Artificial Intelligence and Data Science student at Shiv Nadar
 | Category | Technologies |
 | :--- | :--- |
 | **Programming** | Python, C, Java, SQL |
-| **Frameworks & Libraries** | Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, OpenCV |
+| **Frameworks & Libraries** | Pandas, NumPy, Scikit-Learn, TensorFlow, OpenCV |
 | **Web Development** | React, Node.js, HTML, CSS, JavaScript, Streamlit |
 | **BI & Visualization** | Power BI, Tableau, Matplotlib, Seaborn |
 | **Databases** | MySQL, PostgreSQL |
