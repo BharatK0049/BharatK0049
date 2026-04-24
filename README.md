@@ -9,7 +9,10 @@ Shiv Nadar University
 
 ## About Me
 
-I am a third-year Artificial Intelligence and Data Science student at Shiv Nadar University with a deep-seated passion for building intelligent systems that solve real-world problems. I am particularly interested in how Natural Language Processing and Computer Vision can be leveraged to simplify complex information. My approach combines a strong mathematical foundation with a focus on shipping clean, end-to-end Machine Learning solutions.
+I am a third-year Artificial Intelligence and Data Science student at Shiv Nadar University with a deep-seated passion for building intelligent systems that solve real-world problems. 
+I’ve worked across the full pipeline—from data preprocessing and feature engineering to model development and deployment—on projects involving messy data, ambiguous requirements, and real-world constraints.
+
+I’m particularly interested in applying ML where decisions matter: not just improving model performance, but building systems that are actually usable and reliable.
 
 ---
 
@@ -26,16 +29,24 @@ I am a third-year Artificial Intelligence and Data Science student at Shiv Nadar
 
 ---
 
+## Upcoming Projects
+
+### Smart Database Finder
+A decision-support system that analyzes a user's specific problem statement and technical requirements to recommend the most efficient database architecture for their project.
+
+### Bayern Munich Analytics
+A data-driven analytics dashboard built on historical match, player, and transfer data of FC Bayern Munich, sourced from FBref.
+
 ## Featured Projects
 
 ### Mapsy: Semantic Mind Map Generator
 An intelligent tool that extracts core concepts from raw text documents and semantically summarizes them into simplified, intuitive mind maps for better knowledge retention.
 
-### Smart Database Finder
-A decision-support system that analyzes a user's specific problem statement and technical requirements to recommend the most efficient database architecture for their project.
+### PaperBrain: 
+An AI-powered system that automates the evaluation of handwritten answer sheets for educational institutions.
 
-### Event-based Image Deblurring
-Exploration of event-based vision for high-speed image deblurring, originally developed as part of the NTIRE challenge.
+### Mental Illness Detection:
+A Mental Health classifier that helps provide early detection of potential mental health issues using Natural Language Processing (NLP) and Machine Learning models.
 
 ---
 
