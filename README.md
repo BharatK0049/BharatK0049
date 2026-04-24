@@ -40,12 +40,15 @@ A data-driven analytics dashboard built on historical match, player, and transfe
 ## Featured Projects
 
 ### Mapsy: Semantic Mind Map Generator
+[![](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/BharatK0049/Mapsy-Topic-Aware-Mind-Map-Generator-)
 An intelligent tool that extracts core concepts from raw text documents and semantically summarizes them into simplified, intuitive mind maps for better knowledge retention.
 
-### PaperBrain: 
+### PaperBrain
+[![](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/BharatK0049/PaperBrain)
 An AI-powered system that automates the evaluation of handwritten answer sheets for educational institutions.
 
-### Mental Illness Detection:
+### Mental Illness Detection
+[![](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/BharatK0049/mental-health-datathon)
 A Mental Health classifier that helps provide early detection of potential mental health issues using Natural Language Processing (NLP) and Machine Learning models.
 
 ---
