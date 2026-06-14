@@ -63,5 +63,3 @@ A Mental Health classifier that helps provide early detection of potential menta
 * **Advanced Data Analytics**: Leveling up my data science skills to bridge the gap between complex data visualization and strategic decision-making.
 
 ---
-
-*Still building. Still learning.*
