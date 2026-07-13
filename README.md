@@ -9,7 +9,7 @@ Shiv Nadar University
 
 ## About Me
 
-I am a third-year Artificial Intelligence and Data Science student at Shiv Nadar University with a deep-seated passion for building intelligent systems that solve real-world problems. 
+I am a fourth-year Artificial Intelligence and Data Science student at Shiv Nadar University with a deep-seated passion for building intelligent systems that solve real-world problems. 
 I’ve worked across the full pipeline—from data preprocessing and feature engineering to model development and deployment—on projects involving messy data, ambiguous requirements, and real-world constraints.
 
 I’m particularly interested in applying ML where decisions matter: not just improving model performance, but building systems that are actually usable and reliable.
