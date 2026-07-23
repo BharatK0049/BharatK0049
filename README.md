@@ -1,6 +1,6 @@
 # Bharat Kameswaran
 
-Third-year B.Tech in Artificial Intelligence & Data Science
+Fourth-year B.Tech in Artificial Intelligence & Data Science
 Shiv Nadar University
 
 [![](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharatkameswaran/) [![](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharat.kameswaran@gmail.com)
