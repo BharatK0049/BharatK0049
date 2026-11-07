@@ -29,14 +29,6 @@ I’m particularly interested in applying ML where decisions matter: not just im
 
 ---
 
-## Upcoming Projects
-
-### Smart Database Finder
-A decision-support system that analyzes a user's specific problem statement and technical requirements to recommend the most efficient database architecture for their project.
-
-### Bayern Munich Analytics
-A data-driven analytics dashboard built on historical match, player, and transfer data of FC Bayern Munich, sourced from FBref.
-
 ## Featured Projects
 
 ### Mapsy: Semantic Mind Map Generator
@@ -53,13 +45,5 @@ An AI-powered system that automates the evaluation of handwritten answer sheets 
 [![](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/BharatK0049/mental-health-datathon)
 
 A Mental Health classifier that helps provide early detection of potential mental health issues using Natural Language Processing (NLP) and Machine Learning models.
-
----
-
-## Current Focus
-
-* **Algorithmic Mastery**: Strengthening my foundations in Data Structures and Algorithms to build more efficient and scalable software.
-* **First-Principles Learning**: Deepening my understanding of Deep Learning and Machine Learning by implementing core algorithms from scratch rather than relying solely on high-level libraries.
-* **Advanced Data Analytics**: Leveling up my data science skills to bridge the gap between complex data visualization and strategic decision-making.
 
 ---
